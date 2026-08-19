@@ -69,5 +69,5 @@ O projeto deve ser executado localmente na sua máquina através da linha de com
 5.**Execute o script do projeto:**
    Use o comando `python` + nome do arquivo
    ```
-   python "sistema_inteligente_prontosocorro.py.py" 
+   python "sistema_inteligente_prontosocorro.py" 
 
